@@ -1,4 +1,4 @@
-# Devops Project - Ynov Campus Lyon [Work in progress]
+# Devops Project - Ynov Campus Lyon
 
 This project is a school project where I need to use 3 applications and deploy them with jenkins
 
